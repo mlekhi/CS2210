@@ -1,8 +1,0 @@
--Dfile.encoding=UTF-8
--classpath
-"C:\\Users\\mayal\\eclipse-workspace\\2210Assignment1\\bin"
--XX:+ShowCodeDetailsInExceptionMessages
-Play
-human.gif
-empty.gif
-computer.gif
